@@ -92,7 +92,7 @@ export default function ReligionVienam() {
   ];
   const handleRedirect = () => {
     // Redirect to homepage
-    navigate('/lesson')
+    navigate('/vietnam-relation')
     // Or if using React Router: navigate('/home');
   };
   const policies = [
@@ -403,7 +403,7 @@ export default function ReligionVienam() {
                   onClick={handleRedirect}
                   className="inline-flex items-center gap-2 bg-white text-[#740A03] hover:bg-black hover:text-white px-8 py-3 rounded-full font-bold transition-all duration-300 transform hover:scale-105 shadow-lg"
                 >
-                  <span>Tiếp theo: Chủ nghĩa xã hội và Tôn giáo</span>
+                   <span>Tiếp theo: Quan hệ Dân tộc và Tôn giáo ở Việt Nam</span>
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                   </svg>
