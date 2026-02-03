@@ -238,9 +238,6 @@ export default function ReligionVienam() {
               <h2 className="text-2xl font-bold text-[#740A03] mb-2">
                 5 Đặc điểm của tôn giáo ở Việt Nam
               </h2>
-              <p className="text-gray-600">
-                Nhấn vào từng thẻ để xem chi tiết
-              </p>
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">

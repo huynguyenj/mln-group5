@@ -1,6 +1,4 @@
 import { Route, Routes } from "react-router"
-import HomePage from "./pages/HomePage"
-import MainLayout from "./layout/MainLayout"
 import StartingPage from "./pages/StartingPage"
 import ReligionPage from "./pages/ReligionPage"
 import ReligionPriciplePage from "./pages/ReligionPriciplePage"
